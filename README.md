@@ -12,3 +12,6 @@ Given a positive integer, write a method that returns its square root (Math.sqrt
 
 ### Interview Question of Ep.4
 Given a binary tree where all nodes are either 0 or 1, prune the tree so that subtrees containing all 0s are removed.
+
+### Interview Question of Ep.5
+Given an array of integers in which two elements appear exactly once and all others elements appear exactly twice, find the two elements that appear only once.
